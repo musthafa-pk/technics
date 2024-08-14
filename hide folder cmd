@@ -1,0 +1,4 @@
+hide folder using cmd
+attrib +h +s +r nameoffolder
+unhide folder using cmd
+attrib -h -s -r nameoffolder
